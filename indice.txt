@@ -1,0 +1,7 @@
+índice del proyecto:
+- Adivinanzas
+- Chistes
+- Refranes
+- Trabalenguas
+
+En cada carpeta esta su respectivo contenido que se nombra en la carpeta
